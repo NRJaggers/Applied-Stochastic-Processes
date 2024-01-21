@@ -6,13 +6,13 @@ I should update this later to give more details on how things are organized
 
 # Course Structure
 
- 1 - A few topics in probability and simulation
- 2 - Discrete time Markov chains: properties
- 3 - Discrete time Markov chains: application
- 4 - Inference for Markov chains
- 5 - Markov chain Monte Carlo (MCMC) methods
- 6 - MCMC applications
- 7 - Poisson processes
- 8 - Continuous time Markov chains
- 9 - Gaussian processes
-10 - Brownian motion
+1. A few topics in probability and simulation
+2. Discrete time Markov chains: properties
+3. Discrete time Markov chains: application
+4. Inference for Markov chains
+5. Markov chain Monte Carlo (MCMC) methods
+6. MCMC applications
+7. Poisson processes
+8. Continuous time Markov chains
+9. Gaussian processes
+10. Brownian motion
