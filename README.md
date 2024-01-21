@@ -6,7 +6,8 @@ I should update this later to give more details on how things are organized
 
 # Course Structure
 
-1. A few topics in probability and simulation
+1. A few topics in probability and simulation  
+  - Conditional Probability, Independence, and Conditional Independence
 2. Discrete time Markov chains: properties
 3. Discrete time Markov chains: application
 4. Inference for Markov chains
