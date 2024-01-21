@@ -2,6 +2,8 @@
 
 This repository is to store the code I create through the various exercises in this course. 
 
+Reference material can be found [here](https://bookdown.org/kevin_davisross/applied-stochastic-processes/).
+
 I should update this later to give more details on how things are organized
 
 # Course Structure
