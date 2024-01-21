@@ -8,8 +8,17 @@ I should update this later to give more details on how things are organized
 
 1. A few topics in probability and simulation  
     - Conditional Probability, Independence, and Conditional Independence
+    - Random Variables: Joint, Conditional, and Marginal Distributions
+    - Introduction to Stochastic Processes
 2. Discrete time Markov chains: properties
+    - Introduction to Markov Chains
+    - Discrete Time Markov Chains: Joint, Marginal, and Conditional Distributions
+    - Discrete Time Markov Chains: Stationary Distributions
+    - Discrete Time Markov Chains: Steady State Distributions
 3. Discrete time Markov chains: application
+    - Discrete Time Markov Chains: Long Run Behavior
+    - Discrete Time Markov Chains: Absorbing States and First Step Analysis
+    - Miscellaneous Markov Math
 4. Inference for Markov chains
 5. Markov chain Monte Carlo (MCMC) methods
 6. MCMC applications
