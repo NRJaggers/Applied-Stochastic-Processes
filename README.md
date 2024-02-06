@@ -23,7 +23,10 @@ I should update this later to give more details on how things are organized
     - Miscellaneous Markov Math
 4. Inference for Markov chains
 5. Markov chain Monte Carlo (MCMC) methods
+    - Introduction to Markov Chain Monte Carlo (MCMC) Methods
+    - Metropolis-Hastings Algorithm
 6. MCMC applications
+    - Some Applications of MCMC
 7. Poisson processes
 8. Continuous time Markov chains
 9. Gaussian processes
