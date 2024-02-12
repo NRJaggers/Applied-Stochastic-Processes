@@ -27,6 +27,7 @@ I should update this later to give more details on how things are organized
     - Metropolis-Hastings Algorithm
 6. MCMC applications
     - Some Applications of MCMC
+    - Some Diagnostics for MCMC
 7. Poisson processes
 8. Continuous time Markov chains
 9. Gaussian processes
