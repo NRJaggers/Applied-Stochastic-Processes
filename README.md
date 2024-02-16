@@ -29,6 +29,7 @@ I should update this later to give more details on how things are organized
     - Some Applications of MCMC
     - Some Diagnostics for MCMC
 7. Poisson processes
+    - Exponential Distributions
 8. Continuous time Markov chains
 9. Gaussian processes
 10. Brownian motion
