@@ -30,6 +30,9 @@ I should update this later to give more details on how things are organized
     - Some Diagnostics for MCMC
 7. Poisson processes
     - Exponential Distributions
+    - Poisson Processes
+    - Further Properties of Poisson Processes
+    - Spatial Poisson Processes, and Relatives of Poisson Processes
 8. Continuous time Markov chains
 9. Gaussian processes
 10. Brownian motion
