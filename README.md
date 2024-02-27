@@ -4,8 +4,6 @@ This repository is to store the code I create through the various exercises in t
 
 Reference material can be found [here](https://bookdown.org/kevin_davisross/applied-stochastic-processes/).
 
-I should update this later to give more details on how things are organized
-
 # Course Structure
 
 1. A few topics in probability and simulation  
@@ -34,5 +32,9 @@ I should update this later to give more details on how things are organized
     - Further Properties of Poisson Processes
     - Spatial Poisson Processes, and Relatives of Poisson Processes
 8. Continuous time Markov chains
+    - Introduction to Continuous Time Markov Chains
+    - Continuous Time Markov Chains: Transition Probabilities and Kolmogorov Equations
+    - Stationary Distributions and Long Run Behavior of CTMCs
+    - Continuous Time Birth and Death Chains
 9. Gaussian processes
 10. Brownian motion
