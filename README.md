@@ -37,4 +37,7 @@ Reference material can be found [here](https://bookdown.org/kevin_davisross/appl
     - Stationary Distributions and Long Run Behavior of CTMCs
     - Continuous Time Birth and Death Chains
 9. Gaussian processes
+    - Gaussian Distributions and Processes
 10. Brownian motion
+    - Brownian Motion
+    - Relatives of Brownian Motion
