@@ -19,7 +19,9 @@ Reference material can be found [here](https://bookdown.org/kevin_davisross/appl
     - Discrete Time Markov Chains: Long Run Behavior
     - Discrete Time Markov Chains: Absorbing States and First Step Analysis
     - Miscellaneous Markov Math
-4. Inference for Markov chains
+4. Inference for Markov chains & HMM
+    - Inference for Discrete Time Markov Chains
+    - Hidden Markov Models
 5. Markov chain Monte Carlo (MCMC) methods
     - Introduction to Markov Chain Monte Carlo (MCMC) Methods
     - Metropolis-Hastings Algorithm
